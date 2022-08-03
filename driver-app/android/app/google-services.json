@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "831285844718",
+    "project_id": "as-shop-8427e",
+    "storage_bucket": "as-shop-8427e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831285844718:android:d1fadeb27e3d5bedeb31ff",
+        "android_client_info": {
+          "package_name": "com.aftersad.aftersad_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831285844718-6o7c01eail87v8etqi4vhjjd59t097ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aftersad.aftersad_store",
+            "certificate_hash": "bc641c2458a1b8f19219824f34097db3056c253b"
+          }
+        },
+        {
+          "client_id": "831285844718-ubvr3kl90s04i4tau9fi71g5vonfl2nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aftersad.aftersad_store",
+            "certificate_hash": "2b0d075c0b8a65d50badca2b8ac5d16750207d34"
+          }
+        },
+        {
+          "client_id": "831285844718-amfu4ii120tt0vuv35knrsfvc1bq00cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv8qlRD2J9wiCGlmoIgFjqJ1jdRPzHCpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831285844718-amfu4ii120tt0vuv35knrsfvc1bq00cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831285844718:android:796b1ee61fb2de1ceb31ff",
+        "android_client_info": {
+          "package_name": "com.aftersad.store_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831285844718-amfu4ii120tt0vuv35knrsfvc1bq00cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv8qlRD2J9wiCGlmoIgFjqJ1jdRPzHCpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831285844718-amfu4ii120tt0vuv35knrsfvc1bq00cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831285844718:android:a5b881722cd865b8eb31ff",
+        "android_client_info": {
+          "package_name": "com.messini.store.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831285844718-1c3matt9mcs5fn8r0jvp7jreh7slfkg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.messini.store.driver",
+            "certificate_hash": "bc641c2458a1b8f19219824f34097db3056c253b"
+          }
+        },
+        {
+          "client_id": "831285844718-amfu4ii120tt0vuv35knrsfvc1bq00cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv8qlRD2J9wiCGlmoIgFjqJ1jdRPzHCpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831285844718-amfu4ii120tt0vuv35knrsfvc1bq00cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831285844718:android:729cb79693676f07eb31ff",
+        "android_client_info": {
+          "package_name": "com.messini.store.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831285844718-rv1db4hncs3gfmhil93uq1ekb0o1u631.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.messini.store.user",
+            "certificate_hash": "bc641c2458a1b8f19219824f34097db3056c253b"
+          }
+        },
+        {
+          "client_id": "831285844718-amfu4ii120tt0vuv35knrsfvc1bq00cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv8qlRD2J9wiCGlmoIgFjqJ1jdRPzHCpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831285844718-amfu4ii120tt0vuv35knrsfvc1bq00cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
