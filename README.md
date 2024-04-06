@@ -4,10 +4,6 @@
 
 # **Messini Store**
 
-| ##### **User app** | ##### **Driver app** | ##### **Control panel** |
-| --- | --- | --- |
-| phone: any \| password: any | phone: +213657193123 \| password: 123456 |     |
-| [Download app](https://github.com/ElHafed99/messini/blob/main/app-file/messini-user.apk) | [Download app](https://github.com/ElHafed99/messini/blob/main/app-file/messini-driver.apk) | [Open Website](https://messini.aftersad.com) |
 
 ##### Help Me grow 🙏
 
@@ -19,7 +15,7 @@ donation to: el.hafed.messini@gmail.com
 
 ##### Welcome to any questions 👋
 
-[Facebook](https://m.me/el.hafed.99) | [Email](mailto:el.hafed.messini@gmail.com)
+[Facebook](https://m.me/el.hafed.99) | [Email](mailto:med.hafed.messini@gmail.com)
 
 ---
 
